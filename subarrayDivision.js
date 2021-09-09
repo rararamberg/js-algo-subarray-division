@@ -1,6 +1,4 @@
-// given an array of integers and two separate integers under d and m
-// find the segment of the array that has an equal sum to d and equal length to m
-// return the number of matches as an array
+
 
 
 function birthday(s, d, m) {
